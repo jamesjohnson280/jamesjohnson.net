@@ -93,19 +93,19 @@
 		</header><!-- .title -->
 		<div class="content">
 			<div class="piece">
-				<a href="work/galerie/" class="work-link"><img src="images/galerie-th.jpg"  class="thumb" width="360" height="200" alt=""></a>
-				<a href="work/galerie/" class="title"><h3>Galerie</h3></a>
-				<p>E-Commerce Website</p>
-			</div><!-- .piece -->
-			<div class="piece">
-				<a href="work/asd/" class="work-link"><img src="images/asd-th.jpg"  class="thumb" width="360" height="200" alt=""></a>
-				<a href="work/asd/" class="title"><h3>ASD</h3></a>
-				<p>Exhibitor Landing Page</p>
+				<a href="work/pioneer/" class="work-link"><img src="images/pioneer-th.png" class="thumb" width="360" height="200" alt=""></a>
+				<a href="work/pioneer/" class="title"><h3>Pioneer Intelligence</h3></a>
+				<p>The Pioneer index</p>
 			</div><!-- .piece -->
 			<div class="piece">
 				<a href="work/weather/" class="work-link"><img src="images/weather-th.jpg"  class="thumb" width="360" height="200" alt=""></a>
 				<a href="work/weather/" class="title"><h3>Today&rsquo;s Weather</h3></a>
 				<p>Responsive Web App</p>
+			</div><!-- .piece -->
+			<div class="piece">
+				<a href="work/galerie/" class="work-link"><img src="images/galerie-th.jpg"  class="thumb" width="360" height="200" alt=""></a>
+				<a href="work/galerie/" class="title"><h3>Galerie</h3></a>
+				<p>E-Commerce Website</p>
 			</div><!-- .piece -->
 			<div class="piece">
 				<a href="work/interbike/" class="work-link"><img src="images/interbike-th.jpg"  class="thumb" width="360" height="200" alt=""></a>

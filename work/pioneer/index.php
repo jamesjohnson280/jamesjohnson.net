@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>ASD - James Johnson</title>
+<title>Pioneer Intelligence - James Johnson</title>
 <script src="https://use.typekit.net/xkv6gpw.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
 <link rel="stylesheet" href="../../css/font-awesome.min.css">
@@ -41,19 +41,18 @@
 <section id="portfolio-piece" class="fullscreen">
 	<script>document.querySelector('#portfolio-piece').classList.add('faded');</script>
 	<header class="title">
-		<h2>ASD</h2>
+		<h2>Pioneer Intelligence</h2>
 	</header><!-- .title -->
 	<div class="content portfolio">
 		<div class="description">
-			<h3>Exhibitor Landing Page</h3>
-			<p>ASD needed an extra boost of exhibitor signups during their registration period. This landing page was my solution. With the landing page
-				in place, they increased signups by over 40%.<br>
-			<small>2017 &bull; <strong>Art Direction &amp; Design</strong> James Johnson</p></small>
+			<h3>The Pioneer Index</h3>
+			<p>I worked with Pioneer's team to create a visualization of their breakthrough Pioneer Index, the first index to track media buzz around Cannabis brands.<br>
+			<a href="https://pioneer.buzz/" target="_blank">Visit Site &rsaquo;</a><br>
+			<small>2019 &bull; <strong>Design &amp; Development</strong> James Johnson</p></small>
 		</div>
-		<img class="no-border outdent" src="../../images/asd01.jpg" width="1900" height="1197" alt="">
-		<img class="no-border outdent" src="../../images/asd02.jpg" width="1900" height="1069" alt="">
-		<img class="no-border outdent" src="../../images/asd03.jpg" width="1900" height="3195" alt="">
-		<img class="no-border outdent" src="../../images/asd04.jpg" width="1900" height="1167" alt="ASD Market Week">
+		<img class="no-border outdent" src="../../images/pioneer01.png" width="1900" alt="">
+		<img class="no-border outdent" src="../../images/pioneer02.png" width="1900" alt="">
+		<img class="no-border outdent" src="../../images/pioneer03.png" width="1900" alt="">
 	</div>
 </section><!-- #portfolio-piece -->
 <footer>

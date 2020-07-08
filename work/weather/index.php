@@ -48,7 +48,7 @@
 			<h3>Responsive Web App</h3>
 			<p>I designed and built this to learn working with SVG animation and JSON APIs. This app utilizes open weather API to 
 				give a fully animated 5 day forecast.<br>
-				<a href="https://weather.jamesjohnson.net/" target="_blank">Visit Site &rsaquo;</a><br>
+			<a href="https://github.com/jamesjohnson280/weather" target="_blank">GitHub</a> | <a href="https://weather.jamesjohnson.net/" target="_blank">Visit Site &rsaquo;</a><br>
 			<small>2017 &bull; <strong>Design &amp; Development</strong> James Johnson</p></small>
 		</div>
 		<img class="no-border outdent" src="../../images/weather01.jpg" width="1900" height="1198" alt="">
