@@ -1,0 +1,13 @@
+/* TEAM */
+    Web Designer: James Johnson
+    Contact: me [at] jamesjohnson.net
+    Website: www.jamesjohnson.net
+    From: Brooklyn, NY, USA
+
+/* SITE */
+    Last update: 2017/09/30
+    Language: English
+    Standards: HTML5, CSS3, Javascript
+	Libraries: modernizr.js, smoothscroll.js, normalize.css
+    Components: Typekit Wefonts - Proxima Nova. Icons - Font Awesome
+    Software: Photoshop, Illustrator, Dreamweaver, Prepros, Git
