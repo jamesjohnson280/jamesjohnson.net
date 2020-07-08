@@ -1,2 +1,2 @@
-# jamesjohnson.net
+# JamesJohnson.net
  My personal site
